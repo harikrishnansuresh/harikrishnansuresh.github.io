@@ -10,8 +10,10 @@ Prior to this, I completed my Bachelor of Technology in Mechanical Engineering f
 
 ## Projects
 
-1. *FlySense - Augmented Reality based assistive technology for safe aerial navigation*
-⋅⋅* Unordered sub-list.
+1. **FlySense - Augmented Reality based assistive technology for safe aerial navigation**
+	- Unordered sub-list
+	- ddd
+	- sddde
 
 - Trajectory tracking control of a quadcopter using cascaded linear and nonlinear techniques
 
