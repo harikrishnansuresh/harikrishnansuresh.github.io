@@ -2,4 +2,4 @@ theme: jekyll-theme-leap-day
 title: Harikrishnan Suresh
 description: MS Robotic Systems Development, Robotics Institute, Carnegie Mellon University
 github:
-  repository_url: http://example.com
+  is_project_page: false
