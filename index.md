@@ -10,20 +10,20 @@ Prior to this, I completed my Bachelor of Technology in Mechanical Engineering f
 
 ## Projects
 
-### FlySense - Augmented Reality based assistive technology for safe aerial navigation
+- FlySense - Augmented Reality based assistive technology for safe aerial navigation
 
-### Trajectory tracking control of a quadcopter using cascaded linear and nonlinear techniques
+- Trajectory tracking control of a quadcopter using cascaded linear and nonlinear techniques
 
-### Learning control policies for quadcopter navigation with battery constraints
+- Learning control policies for quadcopter navigation with battery constraints
 
-### Autonomous vineyard robot
+- Autonomous vineyard robot
 
-### Autonomous navigation stack for a KUKA youBot for a controlled indoor environment
+- Autonomous navigation stack for a KUKA youBot for a controlled indoor environment
 
-### Data processing for real world user drive cycle generation and fuel economy simulations
+- Data processing for real world user drive cycle generation and fuel economy simulations
 
 ## Useful links
 
-Email: [link](hsuresh@andrew.cmu.edu)
+Email: hsuresh@andrew.cmu.edu [link](hsuresh@andrew.cmu.edu)
 Linkedin: [link](https://www.linkedin.com/in/harikrishnan-suresh/)
 Github: hks95
