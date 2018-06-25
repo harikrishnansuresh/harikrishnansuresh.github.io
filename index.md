@@ -10,7 +10,8 @@ Prior to this, I completed my Bachelor of Technology in Mechanical Engineering f
 
 ## Projects
 
-- FlySense - Augmented Reality based assistive technology for safe aerial navigation
+1. *FlySense - Augmented Reality based assistive technology for safe aerial navigation*
+⋅⋅* Unordered sub-list.
 
 - Trajectory tracking control of a quadcopter using cascaded linear and nonlinear techniques
 
@@ -24,6 +25,8 @@ Prior to this, I completed my Bachelor of Technology in Mechanical Engineering f
 
 ## Useful links
 
-Email: hsuresh@andrew.cmu.edu [link](hsuresh@andrew.cmu.edu)
-Linkedin: [link](https://www.linkedin.com/in/harikrishnan-suresh/)
+Email: hsuresh@andrew.cmu.edu 
+
+Linkedin: https://www.linkedin.com/in/harikrishnan-suresh
+
 Github: hks95
