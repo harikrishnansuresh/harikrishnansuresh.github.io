@@ -4,7 +4,7 @@ dnwq[k wnqevqe]
 
  wefowpfee
 
-![Image](/assets/dp.JPG)
+![Image](/assets/dp.JPG =250x250)
 
 ### Markdown
 
