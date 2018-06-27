@@ -10,7 +10,7 @@ I am a graduate student in the Robotics Institute at Carnegie Mellon University,
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
 
 ... *MRSD project sponsored by Near Earth Autonomy, Pittsburgh*
-... An Augmented Reality based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot. 
+... An Augmented Reality based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot.   
 [[I'm an inline-style link]](https://www.google.com), [[I'm an inline-style link]](https://www.google.com), [[I'm an inline-style link]](https://www.google.com)
 
 
