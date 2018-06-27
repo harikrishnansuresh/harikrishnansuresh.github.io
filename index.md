@@ -6,8 +6,8 @@ I am a graduate student in the Robotics Institute at Carnegie Mellon University,
 
 ## Projects
 
-1. **FlySense - Augmented Reality based assistive technology For safe aerial navigation**  
-&nbsp;&nbsp;&nbsp;&nbsp;*MRSD capstone project, August'17-May'18, Carnegie Mellon University*
+**FlySense - Augmented Reality based assistive technology For safe aerial navigation**  
+&nbsp;*MRSD capstone project, August'17-May'18, Carnegie Mellon University*
 
 An Augmented Reality based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot.  
 [[report]](https://www.google.com), [[poster]](https://www.google.com), [[video]](https://www.google.com), [[website]](https://www.google.com), [[code]](https://www.google.com)
