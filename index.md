@@ -7,9 +7,12 @@ I am a graduate student in the Robotics Institute at Carnegie Mellon University,
 ## Projects
 
 1. **FlySense - Augmented Reality based assistive technology For safe aerial navigation**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This will appear with six space characters in front of it
 
 ... *MRSD project sponsored by Near Earth Autonomy, Pittsburgh*
 ... An Augmented Reality based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot. 
+[[I'm an inline-style link]](https://www.google.com), [[I'm an inline-style link]](https://www.google.com), [[I'm an inline-style link]](https://www.google.com)
+
 
 2. **Trajectory tracking control of a quadcopter using cascaded linear and nonlinear techniques**
 
@@ -23,9 +26,9 @@ I am a graduate student in the Robotics Institute at Carnegie Mellon University,
 
 ## Useful links
 
-Email: hsuresh@andrew.cmu.edu 
+Email: **hsuresh@andrew.cmu.edu** 
 
-Linkedin: https://www.linkedin.com/in/harikrishnan-suresh
+Linkedin: **https://www.linkedin.com/in/harikrishnan-suresh**
 
-Github: hks95
+Github: **hks95**
 
