@@ -27,8 +27,8 @@ Prior to this, I completed my Bachelor of Technology in Mechanical Engineering f
 
 ## Useful links
 
-Email: hsuresh@andrew.cmu.edu 
+Email: **hsuresh@andrew.cmu.edu** 
 
-Linkedin: https://www.linkedin.com/in/harikrishnan-suresh
+Linkedin: **www.linkedin.com/in/harikrishnan-suresh**
 
-Github: hks95
+Github: **hks95**
