@@ -1,6 +1,4 @@
-# theme: jekyll-theme-leap-day
-remote_theme: mmistakes / minimal-mistakes
-minimal_mistakes_skin: "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+theme: jekyll-theme-leap-day
 title: Harikrishnan Suresh
 description: MS Robotic Systems Development, Robotics Institute, Carnegie Mellon University
 github:
