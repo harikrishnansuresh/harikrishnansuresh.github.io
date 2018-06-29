@@ -3,7 +3,8 @@
 ## About Me
 ------
 
-I am a graduate student in the Robotics Institute at Carnegie Mellon University, pursuing MS in Robotic Systems Development (MRSD). I work on autonomous navigation for quadrotors and ground vehicles, mainly on the control and motion planning side. I am interested in solving these problems using the conventional as well as learning based approaches. I have also worked on LIDAR perception algorithms and deep reinforcement learning for quadrotor navigation. Prior to this, I completed my Bachelor of Technology in Mechanical Engineering from National Institute of Technology Karnataka, Surathkal, India. 
+I am a graduate student in the Robotics Institute at Carnegie Mellon University, pursuing MS in Robotic Systems Development (MRSD). I work on autonomous navigation for quadrotors and ground vehicles, mainly on the control and motion planning side. I am interested in solving these problems using the conventional as well as learning based approaches. I have also worked on LIDAR perception algorithms and deep reinforcement learning for quadrotor navigation. Prior to this, I completed my Bachelor of Technology in Mechanical Engineering from National Institute of Technology Karnataka, Surathkal, India.
+{: .alert .alert-info .text-justify} 
 
 ## Projects
 ------
@@ -18,7 +19,6 @@ def hello
    puts "Hello world!"
 end
 ```
-
 
 2. **Trajectory tracking control of a quadcopter using cascaded linear and nonlinear techniques**
 
