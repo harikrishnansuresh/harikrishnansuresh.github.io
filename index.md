@@ -48,7 +48,7 @@
 * **Data processing for real world user drive cycle generation and fuel economy simulations**
 &nbsp;&nbsp;*Summer intern, Fiat Chrysler Automobiles India*
 
-<p style='text-align: justify;'> Standard emission drive cycles like the New European Drive Cycle, used for measurement of emissions and fuel economy, give results that do not represent field conditions anymore. Thus arises the need for a drive cycle (vehicle speed vs. time) that simulates the actual on-road behavior and accurately predicts the fuel economy as observed by customers. User drive cycles are obtained by processing the data collected from on-road tests using a real time Data Acquisition System (DAQ). This project involved developing a user drive cycle that processes velocity, acceleration and gear position data to predict the actual fuel consumption of the vehicle. </p>        
+<p style='text-align: justify;'> Standard emission drive cycles like the New European Drive Cycle, used for measurement of emissions and fuel economy, give results that do not represent field conditions anymore. Thus arises the need for a drive cycle (vehicle speed vs. time) that simulates the actual on-road behavior and accurately predicts the fuel economy as observed by customers. User drive cycles are obtained by processing the data collected from on-road tests using a real time Data Acquisition System. This project involved developing a user drive cycle that processes velocity, acceleration and gear position data to predict the actual fuel consumption of the vehicle. </p>        
 
 ## Publications
 ------
