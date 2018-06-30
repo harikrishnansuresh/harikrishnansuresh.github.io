@@ -2,6 +2,7 @@
 
 ## About Me
 ------
+------
 
 <p style='text-align: justify;'> I am a graduate student in the Robotics Institute at Carnegie Mellon University, pursuing MS in Robotic Systems Development (MRSD). I work on autonomous navigation for quadrotors and ground vehicles, mainly on the control and motion planning side. I am interested in solving these problems using the conventional as well as learning based approaches. I have also worked on LIDAR perception algorithms and deep reinforcement learning for quadrotor navigation. Prior to this, I completed my Bachelor of Technology in Mechanical Engineering from National Institute of Technology Karnataka, Surathkal, India. </p>    
 
@@ -9,15 +10,15 @@
 ------
 
 **FlySense - Augmented Reality based assistive technology For safe aerial navigation**  
-&nbsp;&nbsp;*MRSD capstone project, August'17-May'18, Carnegie Mellon University*
+&nbsp;&nbsp;*MRSD capstone project, Carnegie Mellon University*
 
 ![Image](/assets/landing_interface.png){:height="50%" width="50%"} &nbsp; &nbsp; ![Image](/assets/quad2.png){:height="50%" width="40%"}
 
-<p style='text-align: justify;'> An Augmented Reality (AR) based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot. The entire system is tested in flight using a DJI M100 quadcopter equipped with a Velodyne LIDAR and camera, streaming the required information real time to the Epson BT-300 AR headset worn by the pilot. The obstacle information is projected as a Bird's Eye View, the relevant aerial data for pilot's reference added as a Head's Up Display and finally merged with the First Person View video coming from the onboard camera to complete the FlySense interface. Wearing the AR headset, the pilot is made to control the DJI M-100 quadcopter using the RC controller by only relying on the interface and no direct line of sight with the vehicle. </p> 
+<p style='text-align: justify;'> An Augmented Reality (AR) based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot. The entire system is tested in flight using a DJI M100 quadcopter equipped with a Velodyne LIDAR and camera, streaming the required information real time to the Epson BT-300 AR headset worn by the pilot. The obstacle information is projected as a Bird's Eye View, the relevant aerial data for pilot's reference added as a Head's Up Display and finally merged with the First Person View video coming from the onboard camera to complete the FlySense interface. Wearing the AR headset, the pilot is made to control the DJI M-100 quadcopter using the RC controller by only relying on the interface and no direct line of sight with the vehicle.</p> 
 [[report]](/assets/TeamC_FinalReport.pdf), [[poster]](/assets/TeamC_Poster.pdf), [[video]](https://youtu.be/h-aslf8awWk), [[website]](https://mrsdprojects.ri.cmu.edu/2017teamc/), [[code]](https://github.com/hks95/flysense_sensing/tree/master)     
 
 **Learning control policies for quadcopter navigation with battery constraints**      
-&nbsp;&nbsp;*10-703 - Deep Reinforcement Learning and Control, January'18-May'18, Carnegie Mellon University*
+&nbsp;&nbsp;*10-703 - Deep Reinforcement Learning and Control, Carnegie Mellon University*
 
 ![Image](/assets/drl1.png){:height="40%" width="40%"} &nbsp; &nbsp;![Image](/assets/drl2.png){:height="60%" width="50%"}
 
@@ -26,7 +27,7 @@
 
 
 **Field scale autonomy for vineyards**      
-&nbsp;&nbsp;*16-662 - Robot Autonomy, January'18-May'18, Carnegie Mellon University*    
+&nbsp;&nbsp;*16-662 - Robot Autonomy, Carnegie Mellon University*    
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Image](/assets/winebot.png){:height="50%" width="50%"}    
 
@@ -34,19 +35,19 @@
 [[report]](/assets/robot-autonomy-final.pdf), [[video]](https://youtu.be/KkF2rET7Z3c), [[code]](https://github.com/hks95/CaveCrawler/tree/global_planning)    
 
 **Modeling, simulation, and complete control of a quadcopter**    
-&nbsp;&nbsp;*BTech major project, August'16-May'17, National Institute of Technology Karnataka*
+&nbsp;&nbsp;*BTech major project, National Institute of Technology Karnataka*
 
 <p style='text-align: justify;'> A research project involving simulation studies on nonlinear dynamics and control of a quadcopter for attitude control and trajectory following. Firstly, a comparative study on linear and nonlinear controllers for the near-hover attitude stabilization of a quadcopter is presented. While the linear methods like PID and the Linear Quadratic Regulator can be successfully applied to the highly nonlinear quadcopter system, the control response and tracking capabilities are not efficient thereby limiting their performance during more aggresive maneuvers. Model based nonlinear controllers prove to be superior in these instances, and one such popular technique - Feedback Linearisation using dynamic inversion is discussed. A PID position controller is then cascaded with this nonlinear attitude controller to enable the quadopter to perform trajectory tracking. The controller receives trajectory commands from a Dijkstra's global planner that acts on a user input occupancy grid, and guides the quadcopter to navigate safely. </p>          
 [[report]](/assets/quadcopter_control_project_report.pdf)
 
 **Autonomous navigation stack for a KUKA youBot for a controlled indoor environment**    
-&nbsp;&nbsp;*Summer research intern, May'16-July'16, Indian Institute of Technology Madras*
+&nbsp;&nbsp;*Summer research intern, Indian Institute of Technology Madras*
 
 <p style='text-align: justify;'> A software stack for the mobile manipulator platform KUKA youBot for indoor autonomous navigation using a 2D LIDAR. By using a particle filter SLAM algorithm, the youBot generates an occupancy grid of the indoor environment and discovers the traversable spaces. Using a global planner running the Dijkstra's algorithm and a local planner based on Dynamic Window Approach, the robot navigates avoiding both static and dynamic obstacles. </p>     
 [[report]](/assets/2D_slam_project_report.pdf)
 
 **Data processing for real world user drive cycle generation and fuel economy simulations**
-&nbsp;&nbsp;*Summer research intern, May'16-July'16, Indian Institute of Technology Madras*
+&nbsp;&nbsp;*Summer intern, Fiat Chrysler Automobiles India*
 
 <p style='text-align: justify;'> Standard emission drive cycles like the New European Drive Cycle, used for measurement of emissions and fuel economy, give results that do not represent field conditions anymore. Thus arises the need for a drive cycle (vehicle speed vs. time) that simulates the actual on-road behavior and accurately predicts the fuel economy as observed by customers. User drive cycles are obtained by processing the data collected from on-road tests using a real time Data Acquisition System (DAQ). This project involved developing a user drive cycle that processes velocity, acceleration and gear position data to predict the actual fuel consumption of the vehicle. </p>        
 
