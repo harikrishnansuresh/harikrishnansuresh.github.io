@@ -19,7 +19,7 @@
 **Learning control policies for quadcopter navigation with battery constraints**      
 &nbsp;&nbsp;*10-703 - Deep Reinforcement Learning and Control, January'18-May'18, Carnegie Mellon University*
 
-![Image](/assets/drl1.png){:height="40%" width="40%"} &nbsp; &nbsp;![Image](/assets/drl2.png){:height="60%" width="60%"}
+![Image](/assets/drl1.png){:height="40%" width="40%"} &nbsp; &nbsp;![Image](/assets/drl2.png){:height="60%" width="50%"}
 
 <p style='text-align: justify;'> Quadcopter UAVs are being heavily deployed in autonomy tasks due to its small size and high maneuverability, thereby enabling them to execute complex trajectories efficiently. However in the context of long range autonomy, these robots are limited in terms of performance due to their battery constraints. This brings forth the need to generate efficient controllers that can enable the quadcopter to operate in a real environment for extended periods with maximum productivity. Through this project, an agent is trained to learn low level control policies (velocity commands) that helps it navigate to a specified goal with minimum battery consumption. The agent is trained in a reinforcement learning setting using the Deep Deterministic Policy Gradient algorithm. We evaluate our algorithm in a simulated environment for mulitple goals and show that the agent learns to navigate with optimal velocities resulting in almost the same mean battery consumption, irrespective of how far or near the goal is. </p>                 
 [[report]](/assets/deep-rl-final.pdf), [[video]](https://youtu.be/atGmYfytJQA), [[code]](https://github.com/hks95/quad-navigation-drl/tree/indigo_devel)
