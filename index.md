@@ -28,10 +28,10 @@
 * **Field Scale Autonomy for Vineyards**      
 &nbsp;&nbsp;*16-662 - Robot Autonomy, Carnegie Mellon University*    
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Image](/assets/winebot.png){:height="50%" width="50%"} </p>   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Image](/assets/winebot.png){:height="50%" width="50%"}  
 
 <p style='text-align: justify;'> A software stack for an autonomous mobile platform for the purposes of navigation within a vineyard. The robot uses onboard sensors to perform localization using a dual EKF approach. A velodyne LIDAR helps the robot perceive non-traversable obstacles in the environment, while a camera assists in detecting the target vineyard row to enter. This information is used to generate a high level global plan using the RRT* algorithm and a local plan using a Timed Elastic Band algorithm, while avoiding static and dynamic obstacles. </p>             
-[[report]](/assets/robot-autonomy-final.pdf), [[video]](https://youtu.be/KkF2rET7Z3c), [[code]](https://github.com/hks95/CaveCrawler/tree/global_planning)    
+[[report]](/assets/robot-autonomy-final-report.pdf), [[video]](https://youtu.be/KkF2rET7Z3c), [[code]](https://github.com/hks95/CaveCrawler/tree/global_planning)    
 
 * **Modeling, Simulation, and Complete Control of a Quadcopter**    
 &nbsp;&nbsp;*BTech major project, National Institute of Technology Karnataka*
