@@ -8,7 +8,7 @@
 ## Projects
 ------
 
-**FlySense - Augmented Reality based assistive technology For safe aerial navigation**  
+* **FlySense - Augmented Reality based assistive technology For safe aerial navigation**  
 &nbsp;&nbsp;*MRSD capstone project, Carnegie Mellon University*
 
 ![Image](/assets/landing_interface.png){:height="50%" width="50%"} &nbsp; &nbsp; ![Image](/assets/quad2.png){:height="50%" width="40%"}
@@ -16,7 +16,7 @@
 <p style='text-align: justify;'> An Augmented Reality (AR) based assistive system that provides complete and enhanced situational awareness through real time visual and audio feedback and enables pilots to navigate safely. FlySense offers a high level of assistance through mapping of surrounding obstacles and low-level autonomy to override bad decisions by the pilot. The entire system is tested in flight using a DJI M100 quadcopter equipped with a Velodyne LIDAR and camera, streaming the required information real time to the Epson BT-300 AR headset worn by the pilot. The obstacle information is projected as a Bird's Eye View, the relevant aerial data for pilot's reference added as a Head's Up Display and finally merged with the First Person View video coming from the onboard camera to complete the FlySense interface. Wearing the AR headset, the pilot is made to control the DJI M-100 quadcopter using the RC controller by only relying on the interface and no direct line of sight with the vehicle.</p> 
 [[report]](/assets/TeamC_FinalReport.pdf), [[poster]](/assets/TeamC_Poster.pdf), [[video]](https://youtu.be/h-aslf8awWk), [[website]](https://mrsdprojects.ri.cmu.edu/2017teamc/), [[code]](https://github.com/hks95/flysense_sensing/tree/master)     
 
-**Learning control policies for quadcopter navigation with battery constraints**      
+* **Learning control policies for quadcopter navigation with battery constraints**      
 &nbsp;&nbsp;*10-703 - Deep Reinforcement Learning and Control, Carnegie Mellon University*
 
 ![Image](/assets/drl1.png){:height="40%" width="40%"} &nbsp; &nbsp;![Image](/assets/drl2.png){:height="60%" width="50%"}
@@ -25,7 +25,7 @@
 [[report]](/assets/deep-rl-final.pdf), [[video]](https://youtu.be/atGmYfytJQA), [[code]](https://github.com/hks95/quad-navigation-drl/tree/indigo_devel)
 
 
-**Field scale autonomy for vineyards**      
+* **Field scale autonomy for vineyards**      
 &nbsp;&nbsp;*16-662 - Robot Autonomy, Carnegie Mellon University*    
 
 <p style='text-align: justify;'> ![Image](/assets/winebot.png){:height="50%" width="50%"} </p>   
