@@ -19,7 +19,7 @@
 * **ADAS Function for Pedestrian Collision Avoidance through Evasive Steering Control**  
 &nbsp;&nbsp;*Summer Intern - ADAS and Control, Nexteer Automotive*
 
-<p style='text-align: justify;'> An Advanced Driver Assist System feature that allows autonomous vehicles moving at high speed to avoid laterally approaching pedestrians either by braking or evasive steering. The function primarily requires a decision making module that identifies critical targets (if any) from the entire list of detected objects and assigns danger confidence to them. This is done by performing trajectory prediction for the autonomous car using its motion model. Once the required maneuver is triggered, the reference trajctory has to be generated. A polynomial trajectory is planned online based on the current state and desired evasiveness by enforcing the kinematic constraints as boundary conditions. The desired steering wheel angle commands are generated from the trajectory and an angle overlay controller is used to actuate the vehicle</p> 
+<p style='text-align: justify;'> An Advanced Driver Assist System (ADAS) feature that allows autonomous vehicles moving at high speed to avoid laterally approaching pedestrians either by braking or evasive steering. The function primarily requires a decision making module that identifies critical targets (if any) from the entire list of detected objects and assigns danger confidence to them. This is done by performing trajectory prediction for the autonomous car using its motion model and also for each of the targets. Based on the most dangerous object, the required maneuver is triggered for which a reference trajctory has to be generated. A polynomial trajectory is planned online based on the current state and desired evasiveness by enforcing the kinematic constraints as boundary conditions. The desired steering wheel angle commands are generated from the trajectory and an angle overlay controller is used to actuate the vehicle. </p> 
 
 * **Learning Control Policies for Quadcopter Navigation with Battery Constraints**      
 &nbsp;&nbsp;*10-703 - Deep Reinforcement Learning and Control, Carnegie Mellon University*
@@ -58,7 +58,7 @@
 ## Publications
 ------
 
-**Suresh, H., Sulficar, A. and Desai, V. (2018) ‘Hovering control of a quadcopter using linear and nonlinear techniques’, Int. J. Mechatronics and Automation, Vol. 6, Nos. 2/3, pp.120–129**     
+Suresh, H., Sulficar, A. and Desai, V. (2018) ‘Hovering control of a quadcopter using linear and nonlinear techniques’, Int. J. Mechatronics and Automation, Vol. 6, Nos. 2/3, pp.120–129     
 [[pdf]](/assets/quadpaper.pdf)  
 
 ## Contact Information
